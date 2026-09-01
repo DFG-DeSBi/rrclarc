@@ -4,6 +4,10 @@
 PyTorch Implementation</p>
 </div>
 
+> **DeSBi Release:** This is a curated v1.0.0 release (desbi-2026.09.1) 
+> by the DFG Research Unit KI-FOR 5363 (DeSBi). 
+> See [DESBI_RELEASE.md](./DESBI_RELEASE.md) for provenance information and [CITATION.cff](./CITATION.cff) for citation metadata.
+
 ## Description
 
 This repository contains the code for the paper "**From Hope to Safety: Unlearning Biases of Deep Models via Gradient Penalization in Latent Space**".
