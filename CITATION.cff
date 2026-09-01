@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: rrclarc
+message: "If you use this software, please cite it using these metadata."
+
+authors:
+  - family-names: Pahde
+    given-names: Frederik
+
+type: software
+repository-code: "https://github.com/frederikpahde/rrclarc"
+url: "https://github.com/dfg-desbi/rrclarc"
+
+abstract: "Right-Reasons Class Artifact Compensation: Unlearning biases in deep neural networks via gradient penalization in latent space."
+
+keywords:
+  - "unlearning"
+  - "bias mitigation"
+  - "deep learning"
+
+license: BSD-3-Clause
+
+references:
+  - type: article
+    authors:
+      - family-names: Pahde
+        given-names: Frederik
+    title: "From Hope to Safety: Unlearning Biases of Deep Models via Gradient Penalization in Latent Space"
+    year: 2023
+    doi: "10.48550/arXiv.2308.09437"
+
+version: "1.0.0"
+date-released: 2026-09-01
